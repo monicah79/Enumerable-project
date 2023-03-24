@@ -44,7 +44,7 @@ ruby
 
 ### Tech Stack <a name="tech-stack"></a>
 
-how to use a module inside your class. For this we created a class MyList and a module MyEnumerable. our module MyEnumerable will implement a subset of the functionality of Enumerable
+how to use a module inside your class. For this we created a class MyList and a module MyEnumerable. our module MyEnumerable will implement a subset of the functionality of Enumerable. The methods in the module will be used inside the MyList class to perform some operations on the list of items.
 
 
 <details>
@@ -113,21 +113,21 @@ Cloning steps:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> List of contributors to this project.
 
 ## Authors
-
-👤 **Abdifatah**
-
-- GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
-- Twitter: [@CabdifataaxYuusuf](https://twitter.com/CabdifataaxYy)
-- LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
 👤 **Monicah**
 
 - GitHub: [@monicah79](https://github.com/monicah79)
 - Twitter: [@MonicahWanjema](https://twitter.com/MonicaWanjema)
 - LinkedIn: [monicah-wanjema](https://www.linkedin.com/in/monicah-wanjema/)
+
+👤 **Abdifatah**
+
+- GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
+- Twitter: [@CabdifataaxYuusuf](https://twitter.com/CabdifataaxYy)
+- LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
 
 
